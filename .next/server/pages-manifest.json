@@ -1,0 +1,8 @@
+{
+  "/_app": "pages/_app.js",
+  "/_error": "pages/_error.js",
+  "/_document": "pages/_document.js",
+  "/": "pages/index.js",
+  "/api/bs_25/total": "pages/api/bs_25/total.js",
+  "/blambangan/bs_25": "pages/blambangan/bs_25.js"
+}
